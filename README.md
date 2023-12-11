@@ -1,6 +1,7 @@
 ## TicTacToe iOS Game
 
-![Screen1](https://github.com/raresmarina/TicTacToe/issues/1#issuecomment-1850428368)
+![screen1](https://github.com/raresmarina/TicTacToe/assets/72380710/0df122ac-bbcd-4966-882b-532a686033c6)
+
 
 This is a simple iOS implementation of the classic Tic-Tac-Toe game developed using Swift and Xcode. The game features a user interface with player name input, a play area with interactive boxes, and a scoring system.
 
